@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+
+<link rel="Stylesheet1" type="text/css" href="Stylesheet1.css">
+
+</head>
+
+<body>
+
+<h1>
+Header 1 element
+</h1>
+<div class= div1>
+<p> DIV 1 block element </p>
+<p> paragraph 1 </p>
+<p> paragraph 2 </p>
+<p> paragraph 3 </p>
+</div>
+
+<div class= div2>
+<p> DIV 2 element </p>
+<p> paragraph 1 </p>
+<p> paragraph 2 </p>
+<p> paragraph 3 </p>
+</div>
+
+<h2>
+The Header2 block element
+</h2>
+</body>
+</html>

@@ -1,0 +1,114 @@
+body 
+    {
+     font-family: Verdana, Arial, Geneve, Arial Black;
+     font-weight: normal;
+     background-color: #ffcf79;  
+     font-size:25px;
+    }
+h1
+    {
+    text-align:center;
+    color:green; 
+    border-bottom:1px solid black;
+    font-size:150%;    
+    }
+
+h2
+    {
+    text-align:center;
+    color:green; 
+    border-bottom:1px solid black;
+    font-size:1.2em;
+    }
+
+h3
+    {
+    
+    color:green; 
+    border-bottom:1px solid black;
+    }
+
+#para1homepage
+   {
+   color:blue;
+    
+}
+    
+
+p.paragraph
+    {
+     color:red;
+     font-size:15px;
+     line-height: 1.5em;
+     background-color: #e5e4d7;
+     padding: 20px 20px 20px 20px;   
+     border-color:black;
+     border-width: 2px;
+     border-style: solid;
+     background-image: url(desert.jpg);
+     
+    }
+
+#para4homepage
+    {
+     color:blue;
+     font-size:15px;
+     line-height: 1.5em;
+     background-color: #e5e4d7;
+     padding: 20px;   
+     border-color: #296A64;
+     border-width: thick;
+     border-style: ridge;
+     margin:20px 20px 20px 20px;
+     border-radius:10px;
+     
+      
+}
+.image
+    {
+
+     display:block;
+     text-align:center;
+     margin-left:auto;
+     margin-right:auto;
+     padding:3px;
+     background-color:silver;
+     border-width: 2px;
+     border-style: solid;
+     
+    }
+#divmain
+{
+   color: black;
+}
+
+#divbass
+
+{
+color: black;
+}
+
+.highlight{
+
+background-color:#ffff00;
+}
+
+.divcontent
+{
+color:black;
+}
+
+a:link
+{
+color:blue;
+}
+
+a:visited
+{
+color: #8C8c9D;
+}
+
+a:hover
+{
+color: #F15A51;
+}
